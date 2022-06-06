@@ -6,9 +6,9 @@
 ### Codewars:
 [![codewars](https://www.codewars.com/users/JetBlade/badges/large)](https://www.codewars.com/users/JetBlade)
 
-### Contacts:
-## :mailbox_closed: Email: minuano.dev@gmail.com
-## :pen: Telegram: https://t.me/Jetstream_S
+## Contacts:
+### :mailbox_closed: Email: minuano.dev@gmail.com
+### :pen: Telegram: https://t.me/Jetstream_S
 <!--
 **Alexandr-Ivsr/Alexandr-Ivsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
