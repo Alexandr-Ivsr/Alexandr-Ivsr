@@ -2,6 +2,9 @@
 + :blue_book: I’m currently learning TypeScript and reading Robert Martin's book "Clean Code"
 + ⚡ I aspire to write clean and understandable code
 + :rabbit2: I think accessibility in front-end development is necessary and important
+
+### Codewars:
+[![codewars](https://www.codewars.com/users/JetBlade/badges/large)](https://www.codewars.com/users/JetBlade)
 <!--
 **Alexandr-Ivsr/Alexandr-Ivsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
