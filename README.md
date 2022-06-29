@@ -3,7 +3,7 @@
 + ⚡ I aspire to write clean and understandable code
 + :rabbit2: I think accessibility in front-end development is necessary and important
 ### Technologies:
-![](https://img.shields.io/badge/-React-blue?logo=react)
+![](https://img.shields.io/badge/-React-%232c3647?logo=react)
 ![](https://img.shields.io/badge/-Redux-blueviolet?logo=redux)
 ![](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![](https://img.shields.io/badge/-HTML5-gray?logo=html5)
