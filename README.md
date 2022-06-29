@@ -5,6 +5,11 @@
 ### Technologies:
 ![](https://img.shields.io/badge/-React-blue)
 ![](https://img.shields.io/badge/-Redux-blueviolet)
+![](https://img.shields.io/badge/-JavaScript-black)
+![](https://img.shields.io/badge/-HTML5-gray)
+![]()
+![]()
+
 ### Codewars:
 [![codewars](https://www.codewars.com/users/JetBlade/badges/large)](https://www.codewars.com/users/JetBlade)
 
