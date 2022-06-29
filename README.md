@@ -6,8 +6,8 @@
 ![](https://img.shields.io/badge/-React-blue?logo=react)
 ![](https://img.shields.io/badge/-Redux-blueviolet?logo=redux)
 ![](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![](https://img.shields.io/badge/-HTML5-gray)
-![]()
+![](https://img.shields.io/badge/-HTML5-gray?logo=html5)
+![](https://img.shields.io/badge/-CSS3-brightgreen?logo=css3)
 ![]()
 
 ### Codewars:
