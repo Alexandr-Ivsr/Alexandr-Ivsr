@@ -3,7 +3,7 @@
 + ⚡ I aspire to write clean and understandable code
 + :rabbit2: I think accessibility in front-end development is necessary and important
 ### Technologies:
-![React](https://img.shields.io/badge/-React-blue)
+![](https://img.shields.io/badge/-React-blue)
 ### Codewars:
 [![codewars](https://www.codewars.com/users/JetBlade/badges/large)](https://www.codewars.com/users/JetBlade)
 
