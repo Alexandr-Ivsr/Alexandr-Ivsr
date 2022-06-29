@@ -4,7 +4,7 @@
 + :rabbit2: I think accessibility in front-end development is necessary and important
 ### Technologies:
 ![](https://img.shields.io/badge/-React-blue?logo=react)
-![](https://img.shields.io/badge/-Redux-blueviolet)
+![](https://img.shields.io/badge/-Redux-blueviolet?logo=redux)
 ![](https://img.shields.io/badge/-JavaScript-black)
 ![](https://img.shields.io/badge/-HTML5-gray)
 ![]()
