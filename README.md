@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/-Redux-blueviolet?logo=redux)
 ![](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![](https://img.shields.io/badge/-HTML5-gray?logo=html5)
-![](https://img.shields.io/badge/-CSS3-#104594?logo=css3)
+![](https://img.shields.io/badge/-CSS3-%104594?logo=css3)
 ![](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![]()
 
