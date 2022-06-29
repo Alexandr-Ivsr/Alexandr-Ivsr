@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![](https://img.shields.io/badge/-HTML5-gray?logo=html5)
 ![](https://img.shields.io/badge/-CSS3-brightgreen?logo=css3)
-![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![]()
 
 ### Codewars:
