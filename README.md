@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-%2368c71a?logo=node.js)
 ![](https://img.shields.io/badge/-Express-%238f8d10?logo=express)
+![](https://img.shields.io/badge/-MongoDB-%231abd48?logo=mongodb)
+![](https://img.shields.io/badge/-Webpack-%2323c1fa?logo=webpack)
 
 ### Codewars:
 [![codewars](https://www.codewars.com/users/JetBlade/badges/large)](https://www.codewars.com/users/JetBlade)
