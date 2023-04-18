@@ -1,5 +1,5 @@
 ### Hello there 👋
-+ :blue_book: I’m currently learning TypeScript and reading Robert Martin's book "Clean Code"
++ :blue_book: I’m currently reading Robert Martin's book "Clean Code"
 + ⚡ I aspire to write clean and understandable code
 + :rabbit2: I think accessibility in front-end development is necessary and important
 ### Technologies:
